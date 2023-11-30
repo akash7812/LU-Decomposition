@@ -52,8 +52,10 @@ print(solution)
 
 
 ## Output:
-![output](./luoutput.png)
-![output](./lumatrixoutput.png)
+![output](https://github.com/akash7812/LU-Decomposition/assets/146819826/7e3a9ceb-6fbf-4c31-98e4-4419066b2c36)
+
+![output](https://github.com/akash7812/LU-Decomposition/assets/146819826/7963273d-336d-405b-b3e2-0370ff16a6e9)
+
 
 
 ## Result:
